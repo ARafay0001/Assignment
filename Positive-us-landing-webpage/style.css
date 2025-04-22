@@ -257,8 +257,8 @@ display: inline;
     border-radius: 25px;
     padding: 30px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
-    margin: 30px auto;
-    max-width: 800px;
+    margin: 30px 60px;
+    max-width: 1460px;
     border: 1px solid black;
   }
   
