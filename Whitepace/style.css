@@ -261,6 +261,7 @@ h2 {
 
 @media (max-width: 768px) {
   .header {
+    position: relative;
     flex-direction: column;
     width: auto;
     height: auto;
